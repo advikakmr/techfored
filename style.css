@@ -6,6 +6,7 @@ body {
 .topbar {
     background: black;
     overflow: hidden;
+    height: 50px;
 }
 
 .topbar a {
