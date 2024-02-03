@@ -5,13 +5,12 @@ body {
 
 .topbar {
     background: black;
-    color: white;
     overflow: hidden;
 }
 
 .topbar a {
     float:left;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     font-size: 17px;
@@ -19,7 +18,7 @@ body {
 
 .topbar a:hover {
     background: rgb(216, 216, 255);
-    color: black;
+    color: blue;
 }
  
 /* .topnav a.active {
