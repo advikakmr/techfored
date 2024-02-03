@@ -9,7 +9,20 @@ body {
     overflow: hidden;
 }
 
+.topbar a {
+    float:left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
 .topbar a:hover {
     background: rgb(216, 216, 255);
     color: black;
 }
+ 
+/* .topnav a.active {
+background-color: #04AA6D;
+color: white;
+} */
