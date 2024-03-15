@@ -1,9 +1,10 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500;
+    background: black;
 }
 
-.topbar {
+/* .topbar {
     background: black;
     overflow: hidden;
     height: 150px;
@@ -20,7 +21,7 @@ body {
 .topbar a:hover {
     background: rgb(216, 216, 255);
     color: blue;
-}
+} */
  
 /* .topnav a.active {
 background-color: #04AA6D;
