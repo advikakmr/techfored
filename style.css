@@ -11,8 +11,6 @@ body {
 }
 
 .main {
-    color: white;
-    font-size: 30px;
     height: 80vh;
     width: 80vw;
     padding: 10px;
@@ -21,6 +19,15 @@ body {
     top:  50%;
     left: 50%;
     transform: translate(-50%,-50%);
+}
+
+.main p {
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);  
+    color: white;
+    font-size: 100px;  
 }
 
 /* .topbar {
