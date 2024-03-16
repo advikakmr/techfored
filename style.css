@@ -1,5 +1,11 @@
+@font-face {
+    font-family: RussoOne;
+    src: url(RussoOne-Regular.ttf);
+  }
+
+
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: RussoOne;
     font-weight: 500;
     background: black;
 }
