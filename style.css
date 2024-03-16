@@ -1,15 +1,17 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500;
-    background: blue;
+    background: black;
 }
 
 .main {
     color: white;
+    font-size: 5px;
     height: 80%;
     width: 80%;
     margin: auto;
-    border: 5px solid white;
+    padding: 10px;
+    border: 2px solid white;
 }
 
 /* .topbar {
