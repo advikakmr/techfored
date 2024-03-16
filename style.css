@@ -4,6 +4,13 @@ body {
     background: black;
 }
 
+.main {
+    color: white;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+}
+
 /* .topbar {
     background: black;
     overflow: hidden;
