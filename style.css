@@ -9,6 +9,7 @@ body {
     height: 80%;
     width: 80%;
     margin: auto;
+    border: 5px solid white;
 }
 
 /* .topbar {
