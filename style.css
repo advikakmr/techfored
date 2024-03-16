@@ -13,7 +13,6 @@ body {
 .main {
     height: 80vh;
     width: 80vw;
-    padding: 10px;
     border: 2px solid white;
     position: absolute;
     top:  50%;
@@ -24,7 +23,7 @@ body {
 .main p {
     text-align: center; 
     color: white;
-    font-size: 300px;  
+    font-size: 100px;  
 }
 
 /* .topbar {
