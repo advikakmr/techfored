@@ -7,8 +7,8 @@ body {
 .main {
     color: white;
     font-size: 5px;
-    height: 80%;
-    width: 80%;
+    height: 80 vh;
+    width: 80 vh;
     margin: auto;
     padding: 10px;
     border: 2px solid white;
