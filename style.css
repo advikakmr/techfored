@@ -1,51 +1,43 @@
-@font-face {
-    font-family: RussoOne;
-    src: url(RussoOne-Regular.ttf);
-  }
-
-
 body {
-    font-family: RussoOne;
-    font-weight: 500;
+    font-family: Helvetica;
     background: black;
-}
-
-.main {
-    height: 80vh;
-    width: 80vw;
-    border: 2px solid white;
-    position: absolute;
-    top:  50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.main p {
-    text-align: center; 
     color: white;
-    font-size: 100px;  
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
 }
 
-/* .topbar {
-    background: black;
-    overflow: hidden;
-    height: 150px;
+header {
+    background: white;
+    color: black;
+    margin: 10px;
+    padding: 10px;
 }
 
-.topbar a {
-    float:left;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    font-size: 20px;
+section {
+    background: rgb(100, 100, 100);
+    display: flex;
+    flex-direction: row;
 }
 
-.topbar a:hover {
-    background: rgb(216, 216, 255);
-    color: blue;
-} */
- 
-/* .topnav a.active {
-background-color: #04AA6D;
-color: white;
-} */
+div {
+    background: red;
+    margin: auto;
+    width: 100px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer {
+    background: white;
+    color: black;
+}
