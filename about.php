@@ -9,16 +9,9 @@
 <body>
 
   <header>
-    <nav>
-      <ul>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
-        <li><a class="logo" href="../index.html">TechForEd</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="blog.html">Blog</a></li>
-      </ul>
-    </nav>
+    <?php include "head-nav.php" ?>
   </header>
+  
   <section>
     <h1>About</h1>
   </section>

@@ -32,6 +32,11 @@ header .logo:hover {
     background-image: url("images/techforedlogo.png");
 }
 
+.php {
+    font-size: 100px;
+    color: blue;
+}
+
 nav ul {
     margin: 0;
     padding: 0;
