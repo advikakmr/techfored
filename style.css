@@ -14,6 +14,22 @@ header {
     padding: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+a:first-child {
+    margin: 0;
+}
+
+a:hover {
+    background: black;
+    color: white;
+}
+
 section {
     background: rgb(100, 100, 100);
     display: flex;
