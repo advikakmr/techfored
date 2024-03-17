@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
     background: black;
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     margin: 0;
     padding: 0;
 }
@@ -12,6 +12,22 @@ header {
     color: black;
     margin: 10px;
     padding: 10px;
+    text-align: center;
+}
+
+header .logo {
+    background-image: url("images/techforedlogo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 334px;
+    text-indent: -9999999px;
+    position: relative;
+    top: -5px;
+}
+
+header .logo:hover {
+    background-image: url("images/techforedlogo.png");
 }
 
 a {
@@ -21,12 +37,8 @@ a {
     margin: 10px;
 }
 
-a:first-child {
-    margin: 0;
-}
-
 a:hover {
-    background: black;
+    background-color: black;
     color: white;
 }
 
@@ -56,4 +68,7 @@ li {
 footer {
     background: white;
     color: black;
+    font-size: 20px;
+    padding: 20px;
+    padding-left: 0;
 }
