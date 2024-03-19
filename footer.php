@@ -8,18 +8,7 @@
 
 <body>
 
-  <header>
-    <?php include "head-nav.php" ?>
-  </header>
-
-  <section>
-    <h1>Contact</h1>
-  </section>
-
-  <footer>
-    <?php include "footer.php" ?>
-  </footer>
-
+<footer>Designed by Advika Kumar</footer>
 
 </body>
 </html> 

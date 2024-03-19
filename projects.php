@@ -15,7 +15,11 @@
   <section>
     <h1>Projects</h1>
   </section>
-  <footer>Designed by Advika Kumar</footer>
+
+  <footer>
+    <?php include "footer.php" ?>
+  </footer>
+
 
 </body>
 </html> 
